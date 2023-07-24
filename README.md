@@ -1,4 +1,4 @@
-# nose12<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <title>Encuesta Divertida</title>
